@@ -1,0 +1,1 @@
+All the search results will be stored as json in this folder.
