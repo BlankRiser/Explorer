@@ -48,7 +48,7 @@ pandas==1.0.3
 ```
 
 ## Resources
-- [Selenium Tutorail]()
+- [Selenium Tutorial]()
 - [Gooey Docs](https://gooey.readthedocs.io/en/latest/)
 - [ReportLab Documentation](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 
